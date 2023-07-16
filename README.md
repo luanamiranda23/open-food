@@ -10,7 +10,7 @@ Este projeto é uma API de exemplo desenvolvida como parte do desafio proposto p
 
 - Linguagem: PHP
 - Framework: Laravel
-- -Tecnologias: Composer,axios,node.js
+- Tecnologias: Composer,axios,node.js
 
 ## Instalação
 
