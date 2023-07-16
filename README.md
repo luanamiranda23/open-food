@@ -4,7 +4,9 @@ API de Exemplo
 
 ## Descrição
 
-Este projeto é uma API de exemplo desenvolvida como parte do desafio proposto pela Coodesh.
+desenvolvimento de uma REST API para utilizar os dados do projeto Open Food Facts, que é um banco de dados aberto com informação nutricional de diversos produtos alimentícios.
+O projeto tem como objetivo dar suporte a equipe de nutricionistas da empresa Fitness Foods LC para que eles possam revisar de maneira rápida a informação nutricional dos alimentos que os usuários publicam pela aplicação móvel.
+
 
 ## Tecnologias
 
